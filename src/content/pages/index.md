@@ -5,7 +5,7 @@ title: Jason Agyekum
 tagline: Creative Technologist
 featuredImage: /assets/img_7159.jpeg
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
 Hey, I’m a full stack developer with a MFA in Design and Technology from Parsons School of Design. My focus is on the future of human computer interaction and what that relationship looks like as machines get smarter. Especially, what it looks like if they're programmed with human biases. 
