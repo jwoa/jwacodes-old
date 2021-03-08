@@ -1,12 +1,12 @@
 {
-  "name": "@stackrole/gatsby-starter-foundation",
-  "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+  "name": "jwacodes",
+  "description": "A personal website and portfolio, Built with Gatsby and Netlify CMS.",
   "version": "1.0.0",
-  "author": "Stackrole <stackrole@gmail.com>",
+  "author": "Jason Agyekum",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stackrole/gatsby-starter-foundation.git"
+    "url": "https://github.com/jwoa/jwacodes.git"
   },
   "bugs": {
     "url": "https://github.com/stackrole/gatsby-starter-foundation/issues"
@@ -21,7 +21,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.21.33",
+    "gatsby": "^2.17.16",
     "gatsby-background-image": "^1.1.1",
     "gatsby-image": "^2.4.3",
     "gatsby-plugin-advanced-sitemap": "^1.5.4",

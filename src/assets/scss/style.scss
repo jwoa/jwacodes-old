@@ -109,8 +109,8 @@
 	padding: 60px 0;
 	align-items: center;
 	.title {
-		font-size: 48px;
-		line-height: 48px;
+		font-size: 40px;
+		line-height: 40px;
 		margin: 0 0 5px;
 		font-weight: 900;
 	}
@@ -119,6 +119,9 @@
 		line-height: 1.4;
 		margin-bottom: 30px;
 
+	}
+	&.grids {
+		align-items: flex-start;
 	}
 	.featured-image {
 		border-radius: 12px;

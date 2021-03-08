@@ -3,11 +3,10 @@ import { jsx } from 'theme-ui'
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
-import { RiFacebookBoxFill, RiTwitterFill, RiLinkedinBoxFill, RiYoutubeFill, RiInstagramFill, RiRssFill, RiGithubFill, RiTelegramFill, RiPinterestFill, RiSnapchatFill, RiSkypeFill,RiDribbbleFill, RiMediumFill, RiBehanceFill} from "react-icons/ri";
-import { FaWordpress, FaVk} from "react-icons/fa";
+import { RiLinkedinBoxFill, RiInstagramFill, RiGithubFill} from "react-icons/ri";
 
 import Layout from "../components/layout"
-import BlogListHome from "../components/blog-list-home"
+// import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 import Icons from "../util/socialmedia.json"
 
@@ -89,7 +88,7 @@ const HomePage = ({ data }) => {
           ) : ""}
         </div>
       </div>
-      <BlogListHome/>
+      {/* <BlogListHome/> */}
 		</Layout>
 	)
 }

@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Plant on my desk is a friend
-slug: /post-no-image
-date: 2020-05-11 08:40
+title: Data Scraper
+slug: /projects/data-scraper
+date: 2021-03-07 20:02
 description: Post with no image
-featuredImage: /assets/annie-spratt-hx_hf2lppuu-unsplash.jpg
+featuredImage: /assets/3sm.png
 ---
 Hello i am post without an image

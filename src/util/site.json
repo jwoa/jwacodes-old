@@ -5,7 +5,7 @@
     "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://jwa.codes",
     "image": "/assets/logo.png",
-    "iconimage": "/assets/logo.png",
+    "iconimage": "/assets/favicon.ico",
     "twitterUsername": "@jasonwoa"
   },
   "ga": "UA-XXXXXXXXX-X"

@@ -1,10 +1,10 @@
 ---
-title: Typography
 template: blog-post
-date: 2020-05-13 09:19
-slug: /typography
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
-description: metaphorically make a deal with the devil
+title: DAIQUAN
+slug: /projects/daiquan
+date: 2021-03-07 19:50
+description: Machine learning that specializes in black culture
+featuredImage: /assets/daiquan_banner.png
 ---
 \# When will that be?\
 \
